@@ -114,6 +114,7 @@ The [Easy Approach to Requirements Syntax (EARS)](https://alistairmavin.com/ears
 - Don't fall into the trap of writing requirements with too much precision.
   - The primary goal is to align the team around building the same product.
 - Expect your requirements will change frequently as you refine your understanding of the customer needs and your technology stack.
+- Write as many requirements as you actually need, you don't need to write every single requirement in one shot.
 
 ---
 
